@@ -14,7 +14,7 @@ h1 {
     text-align: center;
   }
   
-  header.grid {
+  .grid {
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
     background-color: lightsteelblue;
@@ -27,12 +27,24 @@ h1 {
     padding: 5px;
   }
   
+  #bottom-left {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: right;
+  padding: 5px;
+}
+  
   #top-middle { 
     display: inline;
     text-align: center;
   }
   
   #top-right {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+    padding: 5px
+  }
+  
+  #bottom-right {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: left;
     padding: 5px
