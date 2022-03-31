@@ -1,6 +1,7 @@
 
-body {
-    background-color: lightslategray;
+html  {
+    background-image: url('https://www.photoshopfreebrushes.com/wp-content/uploads/2015/08/subtle-web-background-9.jpg');
+    background-repeat: repeat;
 }
 
 h1 {
@@ -9,28 +10,35 @@ h1 {
   }
   
   h3 {
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
   }
   
   header.grid {
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
-    background-color: lightblue;
+    background-color: lightsteelblue;
     border: 1px;
   }
   
   #top-left {
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: right;
     padding: 5px;
   }
   
-  #top-middle {
+  #top-middle { 
     display: inline;
     text-align: center;
   }
   
   #top-right {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: left;
     padding: 5px
   }
   
+  footer {
+      background-color: lightsteelblue;
+      text-align: left;
+  }
