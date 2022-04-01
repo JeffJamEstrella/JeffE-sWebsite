@@ -25,12 +25,14 @@ h1 {
       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: right;
     padding: 5px;
+    
   }
   
   #bottom-left {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   text-align: right;
   padding: 5px;
+  display: none;
 }
   
   #top-middle { 
@@ -41,7 +43,8 @@ h1 {
   #top-right {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: left;
-    padding: 5px
+    padding: 5px;
+    display: none;
   }
   
   #bottom-right {
