@@ -1,3 +1,11 @@
+#about {
+    display: inline;
+}
+
+#software {
+    display: inline;
+}
+
 p {
     padding: 10px;
 }
