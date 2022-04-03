@@ -12,6 +12,7 @@ Creating this website is an opportunity to showcase what I've learnt so far with
             - Emphasis on how important selectors are
         4) The process you followed? 
             - So much freedom in the assignment, hard to know where to start. Looked for inspiration in other personal websites. 
-            - Referencing previous completed labs, comparing why ideas worked in this lab and not the one I'm currently working on
+            - Referencing previous completed labs, comparing why ideas worked in this lab and not the one I'm currently working on, e.g. Column-width vs. width 
+            - Using HTML and CSS Validators, assisting in why the code may not be working
 
         

@@ -4,7 +4,6 @@ header {
 
 #about {
     grid-template-columns: 7fr 3fr;
-
 }
 
 .grid {
@@ -16,20 +15,17 @@ header {
 
 #software {
     display: inline;
+    text-align: left;
 }
 
 p {
     padding: 10px;
 }
 
-li {
-    margin: 5px;
-}
-
 
 #top-left {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  text-align: right;
+  text-align:right;
   padding: 5px;
   
 }

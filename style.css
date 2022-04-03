@@ -1,6 +1,6 @@
 
 html {
-        background-color: #F5F5F5;
+        background-color: #e4e4e4;
 }
 
 h1 {
@@ -14,7 +14,7 @@ h1 {
   
  h2 {
      display: inline;
-     text-align: left;
+     text-align: inline-flex;
     background-color: lightcoral;
     padding: 10px;
     margin: 10px;
@@ -22,16 +22,18 @@ h1 {
  }
 
  .CSM {
-     display: block;
+   display: inline-block;
      text-align: center;
+     margin-left: auto;
+     margin-right: auto;
  }
 
   h3 {
       display: inline;
       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    text-align: left;
+    text-align: center;
     background-color: lightsteelblue;
-    padding: 10px;
+    padding: 5px;
   }
   
   
@@ -44,3 +46,18 @@ h1 {
     width: 35%;
     float: right
   }
+
+table {
+ border: 2px solid;
+ margin-left: auto;
+ margin-right: auto;
+} 
+
+th {
+  padding: 1%;
+  text-align: center;
+}
+td {
+  border: 1px solid;
+  padding: 10px;
+}
