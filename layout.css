@@ -18,20 +18,15 @@ header {
     text-align: left;
 }
 
-p {
-    padding: 10px;
-}
-
 
 #top-left {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Arial, Helvetica, sans-serif;
   text-align:right;
-  padding: 5px;
-  
+  padding: 5px; 
 }
 
 #bottom-left {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Arial, Helvetica, sans-serif;
 text-align: right;
 padding: 5px;
 display: none;
@@ -43,14 +38,14 @@ display: none;
 }
 
 #top-right {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Arial, Helvetica, sans-serif;
   text-align: left;
   padding: 5px;
 
 }
 
 #bottom-right {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Arial, Helvetica, sans-serif;
   text-align: left;
   padding: 5px;
   display: none

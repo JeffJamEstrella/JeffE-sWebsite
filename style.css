@@ -4,7 +4,7 @@ html {
 }
 
 h1 {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Arial, Helvetica, sans-serif sans-serif;
     display: inline;
     background-color: lightsteelblue;
     font-size: 400%;
@@ -12,6 +12,12 @@ h1 {
 
   }
   
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+
  h2 {
      display: inline;
      text-align: inline-flex;
@@ -19,6 +25,7 @@ h1 {
     padding: 10px;
     margin: 10px;
     border-width: 20px;
+    font-family: Arial, Helvetica, sans-serif;
  }
 
  .CSM {
@@ -30,7 +37,7 @@ h1 {
 
   h3 {
       display: inline;
-      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     background-color: lightsteelblue;
     padding: 5px;
@@ -51,13 +58,12 @@ table {
  border: 2px solid;
  margin-left: auto;
  margin-right: auto;
+ padding: 5px;
 } 
 
 th {
-  padding: 1%;
   text-align: center;
 }
+
 td {
-  border: 1px solid;
-  padding: 10px;
 }
