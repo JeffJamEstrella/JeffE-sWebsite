@@ -32,14 +32,20 @@ h1 {
      margin-right: auto;
  }
 
-  h3 {
-      display: inline;
+  span {
       font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     background-color: lightsteelblue;
-    padding: 5px;
+    padding: 5px; 
   }
   
+  .title4 {
+    font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  background-color: lightsteelblue;
+  padding: 5px;
+}
+
   
   footer {
       text-align: left;
