@@ -59,6 +59,11 @@ th {
   text-align: center;
 }
 
-li:before { content: '\01F691'; margin-left: -20px; margin-right: 10px; } 
+
+li:before { 
+  content: '\01F691'; 
+  margin-left: -20px; 
+  margin-right: 10px; 
+} 
 
 
