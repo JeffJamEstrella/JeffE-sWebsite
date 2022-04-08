@@ -2,22 +2,12 @@ header {
     margin-bottom: 5%;
 }
 
-#about {
-    grid-template-columns: 7fr 3fr;
-}
-
 .grid {
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
     border: 1px;
   }
   
-
-#software {
-    display: inline;
-    text-align: left;
-}
-
 
 #top-left {
     font-family: Arial, Helvetica, sans-serif;
